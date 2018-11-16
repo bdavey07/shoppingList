@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdavey07/shoppingList.git"
+  },
+  "author": "Ben Davey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdavey07/shoppingList/issues"
+  },
+  "homepage": "https://github.com/bdavey07/shoppingList#readme",
+  "dependencies": {
+    "electron": "^3.0.9"
+  }
+}
